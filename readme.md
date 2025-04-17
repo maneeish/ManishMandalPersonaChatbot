@@ -4,6 +4,23 @@ This project is a simple implementation of a chatbot with a personalized persona
 
 The chatbot uses OpenAI's GPT-4 API to simulate conversations in English, Hindi, and Nepali.
 
+
+
+
+
+## ScreenShots
+
+
+<img width="960" alt="1" src="https://github.com/user-attachments/assets/7254a063-47f6-44af-924f-5aea9af3aed1" />
+<img width="960" alt="2" src="https://github.com/user-attachments/assets/a4024109-cfe6-442e-ac7d-e12feea65fd7" />
+
+<img width="960" alt="3" src="https://github.com/user-attachments/assets/cdc200fa-c8b3-4296-b987-a8a85d1ce703" />
+
+
+
+
+
+
 ## Features
 
 - Chat with a personalized AI persona based on Manish Mandal's profile.
